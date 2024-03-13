@@ -36,6 +36,11 @@ Utilized the ping utility to verify internal connectivity among the PCs and thei
 
   ![alt text](image-2.png)
 
+ - Simulating Internet Connectivity: 
+
+![alt text](<Recording 2024-03-13 at 11.07.11.gif>)
+
+
 ## Who
 This project was a solo challenge completed by Florentina S., aimed at establishing a foundational network for Hackers Poulette under the guidance of Robert Tappan Morris, the CEO and BeCode. 
 
