@@ -36,7 +36,7 @@ Utilized the ping utility to verify internal connectivity among the PCs and thei
 
   ![alt text](image-2.png)
 
- - Simulating Internet Connectivity: 
+ - Simulating Connectivity: 
 
 ![alt text](<Recording 2024-03-13 at 11.11.48.gif>)
 
