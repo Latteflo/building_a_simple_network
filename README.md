@@ -36,9 +36,9 @@ Utilized the ping utility to verify internal connectivity among the PCs and thei
 
   ![alt text](image-2.png)
 
- - Simulating Internet Connectivity: 
+ - Simulating Connectivity: 
 
-![alt text](<Recording 2024-03-13 at 11.11.48.gif>)
+![alt text](<Recording 2024-03-15 at 11.40.51.gif>)
 
 ## Who
 This project was a solo challenge completed by Florentina S., aimed at establishing a foundational network for Hackers Poulette under the guidance of Robert Tappan Morris, the CEO and BeCode. 
@@ -47,13 +47,6 @@ This project was a solo challenge completed by Florentina S., aimed at establish
 -  Optimize router configurations for enhanced security.
 -  Implement VLANs for network segmentation as the company grows.
 -  Set up a firewall for secure internet access.
--  Establish a backup system for network redundancy.
+-  Internet conectivity for the network.
 -  Develop a network monitoring system for performance tracking.
--  Integrate wireless access points for mobile devices.
--  Implement a VPN for secure remote access.
--  Establish a disaster recovery plan for network failures.
--  Conduct regular network maintenance and updates.
--  Train employees on network usage and security best practices.
--  Collaborate with external security experts to fortify the network.
 -  Scale the network infrastructure to support future growth.
--  Explore cloud-based network solutions for enhanced scalability.
